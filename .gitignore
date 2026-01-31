@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Database
+*.db
+*.sqlite3
+
+# Practice specific exclusions
+INFORME_PROYECTO.html
+EXPLICACION_TECNICA.html
+p3.2_fastapi_sqlalquemy.md
+
+# IDEs
+.vscode/
+.idea/
